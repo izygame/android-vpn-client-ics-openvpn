@@ -2,9 +2,9 @@
   "ads":"true",
   "update":[{
     "version":"2.8.1600",
-    "title":"This app is now Opeeeeven Source",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-    "size":"https://git.io/JeY69"
+    "title":"Будем всегда на связи!",
+    "description":"Подпишись на нас в телеграме и будь в курсе всех событий",
+    "size":"https://t.me/Panda_Space"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
