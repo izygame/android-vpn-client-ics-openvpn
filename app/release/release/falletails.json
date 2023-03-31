@@ -1,0 +1,47 @@
+{
+  "ovpn_file":[
+    {"id":0,"file":"client
+dev tun
+proto 11
+sndbuf 0
+rcvbuf 0
+remote 45.131.46.93 1194
+resolv-retry infinite
+nobind
+persist-key
+persist-tun
+remote-cert-tls server
+auth SHA512
+cipher AES-256-CBC
+setenv opt block-outside-dns
+key-direction 1
+verb 3
+<ca>
+</ca>
+<cert>
+</cert>
+<key>
+</key>
+<tls-auth>
+-----BEGIN OpenVPN Static key V1-----
+a788253566ec4b4a072d67108609aa16
+a5f9e5cb88272c89d96bbe4cc9466ab4
+e740f36df3142271e8b648a10f543182
+7ae210c85af29671d8041c353f3cbc50
+9d4f45c82b769aa9c760513f9360f006
+b7b67693951f76cbb0f4b11c8b8d208d
+4301bc1f0999644af99c91e27fbaf4e3
+296196cdcad1d6c22d06ba2eaed5cfed
+c32cd4b6d6610e31dc846b236f98cf11
+c9292784c532d67d762af6540a18e5b7
+64f9e7243069c21982322be083e2921c
+0ef9b826d97208efdfe032efa5d2bfde
+57a2d0d8eb702e616759aea35d8c2548
+29ac84a5e156eefdc1d6cad84ea1e661
+1e23c3b1074cab8a195e4e38a64f966c
+2d9e511a2bc8bf69079965b5b8ed22aa
+-----END OpenVPN Static key V1-----
+</tls-auth>
+"},
+    {"id":1,"file":""}]
+}
