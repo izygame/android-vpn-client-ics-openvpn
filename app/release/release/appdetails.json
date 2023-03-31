@@ -1,5 +1,5 @@
 {
-  "ads":"false",
+  "ads":"true",
   "update":[{
     "version":"2.8.1600",
     "title":"Будь всегда с нами!",
@@ -17,7 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Sacramento","country":"United States","image":"unitedstates","ip":"45.131.46.93","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"Yokkai2chi","country":"japan","image":"japan","ip":"45.131.46.93","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Yokkaichi","country":"japan","image":"japan","ip":"45.131.46.93","active":"true","signal":"a"},
     {"id":1, "file":0, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"45.131.46.93","active":"false","signal":"c"}
   ]
 }
